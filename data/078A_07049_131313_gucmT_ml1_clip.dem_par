@@ -1,0 +1,13 @@
+data_format:        REAL*4
+DEM_hgt_offset:          0.00000
+DEM_scale:               1.00000
+width: 650
+nlines: 900
+corner_lat: 19.899278  decimal degrees
+corner_lon: -99.399556  decimal degrees
+post_lat: -0.001 decimal degrees
+post_lon: 0.001 decimal degrees
+ellipsoid_name: WGS 84
+ellipsoid_ra:        6378137.000   m
+ellipsoid_reciprocal_flattening:  298.2572236
+datum_name: WGS 1984
