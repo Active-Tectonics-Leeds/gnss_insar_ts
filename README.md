@@ -1,5 +1,5 @@
 # gnss_insar_ts
-This python script takes a .tenv3 three component GNSS file as downloaded from Nevada Geodetic GPS Portal and converts the three components into LoS direction to compare to LoS displacments calculated using Sentinel-1 InSAR.
+This python script takes as input a .tenv3 three component GNSS file as downloaded from Nevada Geodetic GPS Portal. The three component displacements are converted into LoS direction to compare to LoS displacements calculated using Sentinel-1 InSAR.
 Linear fits to GNSS and InSAR data are calculated and plotted.
 
 Original script: Pedro Espin
