@@ -3,7 +3,10 @@ This python script takes as input a .tenv3 three component GNSS file as download
 Linear fits to GNSS and InSAR data are calculated and plotted.
 
 Original script: Pedro Espin
+
 interseismic_lib.py: Andrew Watson
+
 GNSS parameter extraction and linear fit: John Elliott
+
 
 Script written by Jess Payne, 23/05/23.
